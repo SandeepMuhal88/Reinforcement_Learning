@@ -4,6 +4,22 @@ A structured guide to learning **Reinforcement Learning (RL)** from scratch to a
 
 ---
 
+## Module 0: Prerequisites Refresher (2 weeks)
+
+- Python for ML: numpy, matplotlib, gymnasium, pytorch/tensorflow
+
+- Math Essentials:
+
+- Probability: random variables, expectation, conditional probability
+
+- Linear Algebra: vectors, dot product, matrices, eigenvalues
+
+- Calculus: differentiation, gradient, partial derivatives
+
+- Statistics: variance, bias, distributions
+
+- Optimization Basics: gradient descent, stochastic gradient descent (SGD), Adam
+
 ## 🚀 1. Foundations (Math & CS Basics)  
 RL is math-heavy. Build your foundation first:  
 
